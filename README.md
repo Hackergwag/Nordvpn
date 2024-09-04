@@ -1,6 +1,6 @@
 <h1>Nord Vpn (Virtual Private Network)</h1>
 
- ### [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.mediafire.com/file/m0s6hhqgh9y1jy5/RQZN5075.mp4/file)
+ ### [Video Tutorials Explaining Nmap And Zenmap In Details](https://www.veed.io/view/34b279d8-36e0-4061-8f30-235882dec13b?panel=)
 
 <h2>Description</h2>
 This project explores NordVPN, a security tool designed to create a secure pathway for internet connections. NordVPN provides robust encryption, effectively masking users' virtual locations and ensuring anonymity from hackers, ISPs, governments, and other surveillance entities. It's recognized as a reliable tool for maintaining online privacy and security.
